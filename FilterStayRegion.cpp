@@ -1,5 +1,5 @@
 //usage: g++ -O3 FilterStayRegion.cpp -o FilterStayRegion
-// FilterStayRegion  > FilterStayRegion.txt &
+// ./FilterStayRegion  > FilterStayRegion.txt &
 
 
 #include <iostream>
